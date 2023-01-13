@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RinksIT
+- 👋 Hi, I’m Rinkal Patel
 - 👀 I’m interested in Graphics design
 - 🌱 I’m currently learning React
 - 📫 How to reach me https://www.linkedin.com/in/rinks00123/
