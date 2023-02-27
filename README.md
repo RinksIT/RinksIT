@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rinkal Patel
-- 👀 I’m interested in Programming, Graphics design and helping international students find survival jobs.
+- 👀 I’m interested in Programming, Graphics design.
 - 🌱 I’m currently learning React
 - 📫 How to reach me https://www.linkedin.com/in/rinks00123/
 
