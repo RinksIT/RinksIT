@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rinkal Patel
+- 👋 Hi, I’m Rinkal Patel.
 - 👀 I'm interested in Programming, Graphics design and helping new immigrants in Canada to finding a job.
-- 🌱 I’m currently learning Azure and React
+- 🌱 I’m currently learning Azure and React.
 - 📫 How to reach me https://www.linkedin.com/in/rinks00123/
 
 <!---
